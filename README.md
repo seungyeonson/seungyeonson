@@ -2,7 +2,7 @@
 * Mainly using **Java, Python**
 * Interested in AI, Data Science, Deep Learning, Server ...
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungyeon-song-5325b0195/)](https://www.linkedin.com/in/sgc109/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seungyeon-song-5325b0195/)](https://www.linkedin.com/in/seungyeon-song-5325b0195/)
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://seungyeonson.github.io/)](https://seungyeonson.github.io/)	
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=ream150346@gmail.com)](mailto:ream150346@gmail.com)
 
