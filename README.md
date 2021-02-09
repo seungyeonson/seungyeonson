@@ -1,4 +1,6 @@
-### Hi there 👋
+* Working as a **SW Engineer**
+* Mainly using **Java, Python**
+* Interested in AI, Data Science, Deep Learning, Server ...
 
 [![Seungyeon's github stats](https://github-readme-stats.vercel.app/api?username=seungyeonson)](https://github.com/seungyeonson/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ream123)](https://solved.ac/ream123)
